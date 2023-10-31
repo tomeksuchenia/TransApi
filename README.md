@@ -14,7 +14,7 @@ Swagger to review on: http://transapitom-001-site1.atempurl.com
 * AutoMapper
 * SeriLog
 * Swagger
-* STMP
+* SMTP
 # ENDPOINTS
 ## Users
 * GET /users - Retrieve all users.
